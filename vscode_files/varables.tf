@@ -55,3 +55,5 @@ resource "azurerm_storage_blob" "var_blob" {
     azurerm_storage_container.var_container
   ]
 }
+
+
